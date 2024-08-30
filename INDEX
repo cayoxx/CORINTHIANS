@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Corinthians</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <nav class="menu">
+        <section class="logo">
+            <a href > <img src="img/logo.png" alt="Chapeu"> </a>
+        </section>
+        <div class="GOL">
+              <video width="640" height="480" controls>
+                  <source src="video/videoplayback.mp4">
+              </video>
+        </div>
+        <img src="img/blog.png" alt="BLOG" class="blog">
+        <ul>   
+            <li> <a href="#inicio"> Início</a> </li>
+            <li> <a href="#sobre"> Sobre</a> </li>
+            <li> <a href="#contato"> Contato</a> </li>
+            <li> <b href="#jogo"> Próximos Jogos</b> </li>
+        </ul>
+    </nav>
+</body>
+</html>
